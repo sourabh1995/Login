@@ -1,0 +1,5 @@
+{
+    "require": {
+        "voku/session2db": "^1.2"
+    }
+}
